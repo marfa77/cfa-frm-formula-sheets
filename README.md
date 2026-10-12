@@ -1,5 +1,7 @@
 # cfa-frm-formula-sheets
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23322167.svg)](https://doi.org/10.5281/zenodo.23322167)
+
 Open, machine-readable **formula reference for CFA Level I, CFA Level II and FRM Part I** — 77 formulas (CFA Level I: 44, CFA Level II: 16, FRM Part I: 17) in LaTeX with plain-language variable definitions and "when used" notes, organised by the **official topic areas** published by CFA Institute and GARP. Includes the **official topic weights** with source links (checked 2026-10-12).
 
 **Browse rendered formulas (KaTeX):** https://marfa77.github.io/cfa-frm-formula-sheets/ · Markdown: [`FORMULAS.md`](FORMULAS.md)

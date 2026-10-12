@@ -7,6 +7,7 @@ date-released: 2026-10-12
 authors:
   - name: UniPrep2Go
     website: https://uniprep2go.study
+doi: 10.5281/zenodo.23322167
 license: CC-BY-4.0
 repository-code: https://github.com/marfa77/cfa-frm-formula-sheets
 url: https://marfa77.github.io/cfa-frm-formula-sheets/
