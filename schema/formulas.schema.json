@@ -1,0 +1,8 @@
+{"$schema":"https://json-schema.org/draft/2020-12/schema","title":"cfa-frm-formula-sheets","type":"object",
+"required":["name","version","source_checked","license","entries"],
+"properties":{"name":{"type":"string"},"version":{"type":"string"},"source_checked":{"type":"string","format":"date"},"license":{"const":"CC-BY-4.0"},
+"entries":{"type":"array","minItems":1,"items":{"type":"object","additionalProperties":false,
+"required":["id","exam","topic","name","latex","variables","when_used","topic_source_url","source_checked","uniprep2go_url"],
+"properties":{"id":{"type":"string","pattern":"^(cfa1|cfa2|frm1)-[0-9]{3}$"},"exam":{"enum":["CFA Level I","CFA Level II","FRM Part I"]},
+"topic":{"type":"string"},"name":{"type":"string"},"latex":{"type":"string"},"variables":{"type":"string"},"when_used":{"type":"string"},
+"topic_source_url":{"type":"string","format":"uri"},"source_checked":{"type":"string"},"uniprep2go_url":{"type":["string","null"],"format":"uri"}}}}}}

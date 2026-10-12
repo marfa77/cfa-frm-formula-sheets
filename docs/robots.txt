@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marfa77.github.io/cfa-frm-formula-sheets/sitemap.xml

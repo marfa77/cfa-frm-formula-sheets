@@ -1,0 +1,38 @@
+{
+  "title": "cfa-frm-formula-sheets: Formula reference for CFA Level I, Level II and FRM Part I",
+  "upload_type": "dataset",
+  "description": "Open, machine-readable formula reference for CFA Level I, CFA Level II and FRM Part I (LaTeX, variable definitions, use cases), organised by official CFA Institute and GARP topic areas, with official topic weights and source URLs. Formulas numerically spot-checked.",
+  "creators": [
+    {
+      "name": "UniPrep2Go"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "CFA",
+    "FRM",
+    "finance formulas",
+    "formula sheet",
+    "quantitative finance",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/marfa77/cfa-frm-formula-sheets",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://uniprep2go.study",
+      "relation": "isReferencedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://marfa77.github.io/cfa-frm-formula-sheets/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ],
+  "access_right": "open",
+  "version": "1.0.0"
+}

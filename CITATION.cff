@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "cfa-frm-formula-sheets: Formula reference for CFA Level I, Level II and FRM Part I"
+version: 1.0.0
+date-released: 2026-10-12
+authors:
+  - name: UniPrep2Go
+    website: https://uniprep2go.study
+license: CC-BY-4.0
+repository-code: https://github.com/marfa77/cfa-frm-formula-sheets
+url: https://marfa77.github.io/cfa-frm-formula-sheets/
+keywords: [CFA, FRM, finance formulas, formula sheet, quantitative finance, open data]
+abstract: "Machine-readable formula reference (LaTeX, variables, use cases) for CFA Level I, CFA Level II and FRM Part I, organised by official CFA Institute and GARP topic areas, with official topic weights and sources."

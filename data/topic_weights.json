@@ -1,0 +1,345 @@
+{
+  "source_checked": "2026-10-12",
+  "entries": [
+    {
+      "exam": "CFA Level I",
+      "session": "2026",
+      "topic": "Ethical and Professional Standards",
+      "weight_min_pct": 15,
+      "weight_max_pct": 20,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": null
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2026",
+      "topic": "Quantitative Methods",
+      "weight_min_pct": 6,
+      "weight_max_pct": 9,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": null
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2026",
+      "topic": "Economics",
+      "weight_min_pct": 6,
+      "weight_max_pct": 9,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": null
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2026",
+      "topic": "Financial Statement Analysis",
+      "weight_min_pct": 11,
+      "weight_max_pct": 14,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": null
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2026",
+      "topic": "Corporate Issuers",
+      "weight_min_pct": 6,
+      "weight_max_pct": 9,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": null
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2026",
+      "topic": "Equity Investments",
+      "weight_min_pct": 11,
+      "weight_max_pct": 14,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": null
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2026",
+      "topic": "Fixed Income",
+      "weight_min_pct": 11,
+      "weight_max_pct": 14,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": null
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2026",
+      "topic": "Derivatives",
+      "weight_min_pct": 5,
+      "weight_max_pct": 8,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": null
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2026",
+      "topic": "Alternative Investments",
+      "weight_min_pct": 7,
+      "weight_max_pct": 10,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": null
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2026",
+      "topic": "Portfolio Management",
+      "weight_min_pct": 8,
+      "weight_max_pct": 12,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": null
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2027",
+      "topic": "Ethical and Professional Standards",
+      "weight_min_pct": 10,
+      "weight_max_pct": 15,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": "2027 session uses renamed topic areas."
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2027",
+      "topic": "Quantitative Methods",
+      "weight_min_pct": 11,
+      "weight_max_pct": 14,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": "2027 session uses renamed topic areas."
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2027",
+      "topic": "Economics",
+      "weight_min_pct": 6,
+      "weight_max_pct": 9,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": "2027 session uses renamed topic areas."
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2027",
+      "topic": "Financial Statement Analysis",
+      "weight_min_pct": 11,
+      "weight_max_pct": 14,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": "2027 session uses renamed topic areas."
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2027",
+      "topic": "Corporate Finance",
+      "weight_min_pct": 6,
+      "weight_max_pct": 9,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": "2027 session uses renamed topic areas."
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2027",
+      "topic": "Equities",
+      "weight_min_pct": 11,
+      "weight_max_pct": 14,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": "2027 session uses renamed topic areas."
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2027",
+      "topic": "Fixed Income",
+      "weight_min_pct": 11,
+      "weight_max_pct": 14,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": "2027 session uses renamed topic areas."
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2027",
+      "topic": "Derivatives and Risk Management",
+      "weight_min_pct": 6,
+      "weight_max_pct": 9,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": "2027 session uses renamed topic areas."
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2027",
+      "topic": "Alternative Investments",
+      "weight_min_pct": 6,
+      "weight_max_pct": 9,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": "2027 session uses renamed topic areas."
+    },
+    {
+      "exam": "CFA Level I",
+      "session": "2027",
+      "topic": "Portfolio Construction",
+      "weight_min_pct": 8,
+      "weight_max_pct": 12,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam",
+      "source_checked": "2026-10-12",
+      "notes": "2027 session uses renamed topic areas."
+    },
+    {
+      "exam": "CFA Level II",
+      "session": null,
+      "topic": "Quantitative Methods",
+      "weight_min_pct": 5,
+      "weight_max_pct": 10,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-ii-exam",
+      "source_checked": "2026-10-12",
+      "notes": "Single weight table shown on the official Level II page (page links both 2026 and 2027 topic outlines); session not stated next to the table."
+    },
+    {
+      "exam": "CFA Level II",
+      "session": null,
+      "topic": "Economics",
+      "weight_min_pct": 5,
+      "weight_max_pct": 10,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-ii-exam",
+      "source_checked": "2026-10-12",
+      "notes": "Single weight table shown on the official Level II page (page links both 2026 and 2027 topic outlines); session not stated next to the table."
+    },
+    {
+      "exam": "CFA Level II",
+      "session": null,
+      "topic": "Financial Statement Analysis",
+      "weight_min_pct": 10,
+      "weight_max_pct": 15,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-ii-exam",
+      "source_checked": "2026-10-12",
+      "notes": "Single weight table shown on the official Level II page (page links both 2026 and 2027 topic outlines); session not stated next to the table."
+    },
+    {
+      "exam": "CFA Level II",
+      "session": null,
+      "topic": "Corporate Finance",
+      "weight_min_pct": 5,
+      "weight_max_pct": 10,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-ii-exam",
+      "source_checked": "2026-10-12",
+      "notes": "Single weight table shown on the official Level II page (page links both 2026 and 2027 topic outlines); session not stated next to the table."
+    },
+    {
+      "exam": "CFA Level II",
+      "session": null,
+      "topic": "Equities",
+      "weight_min_pct": 10,
+      "weight_max_pct": 15,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-ii-exam",
+      "source_checked": "2026-10-12",
+      "notes": "Single weight table shown on the official Level II page (page links both 2026 and 2027 topic outlines); session not stated next to the table."
+    },
+    {
+      "exam": "CFA Level II",
+      "session": null,
+      "topic": "Fixed Income",
+      "weight_min_pct": 10,
+      "weight_max_pct": 15,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-ii-exam",
+      "source_checked": "2026-10-12",
+      "notes": "Single weight table shown on the official Level II page (page links both 2026 and 2027 topic outlines); session not stated next to the table."
+    },
+    {
+      "exam": "CFA Level II",
+      "session": null,
+      "topic": "Derivatives and Risk Management",
+      "weight_min_pct": 5,
+      "weight_max_pct": 10,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-ii-exam",
+      "source_checked": "2026-10-12",
+      "notes": "Single weight table shown on the official Level II page (page links both 2026 and 2027 topic outlines); session not stated next to the table."
+    },
+    {
+      "exam": "CFA Level II",
+      "session": null,
+      "topic": "Alternative Investments",
+      "weight_min_pct": 5,
+      "weight_max_pct": 10,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-ii-exam",
+      "source_checked": "2026-10-12",
+      "notes": "Single weight table shown on the official Level II page (page links both 2026 and 2027 topic outlines); session not stated next to the table."
+    },
+    {
+      "exam": "CFA Level II",
+      "session": null,
+      "topic": "Portfolio Construction",
+      "weight_min_pct": 10,
+      "weight_max_pct": 15,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-ii-exam",
+      "source_checked": "2026-10-12",
+      "notes": "Single weight table shown on the official Level II page (page links both 2026 and 2027 topic outlines); session not stated next to the table."
+    },
+    {
+      "exam": "CFA Level II",
+      "session": null,
+      "topic": "Ethical and Professional Standards",
+      "weight_min_pct": 10,
+      "weight_max_pct": 15,
+      "source_url": "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-ii-exam",
+      "source_checked": "2026-10-12",
+      "notes": "Single weight table shown on the official Level II page (page links both 2026 and 2027 topic outlines); session not stated next to the table."
+    },
+    {
+      "exam": "FRM Part I",
+      "session": "2023 curriculum",
+      "topic": "Foundations of Risk Management",
+      "weight_min_pct": 20,
+      "weight_max_pct": 20,
+      "source_url": "https://www.garp.org/hubfs/Website/FRM/PDF/Study%20Materials/2023/FRM2023-Learning-Objectives.pdf",
+      "source_checked": "2026-10-12",
+      "notes": "Latest publicly downloadable GARP weights (2023 Learning Objectives PDF). The 2026 Learning Objectives are behind a form on garp.org; topic names confirmed current on garp.org/frm."
+    },
+    {
+      "exam": "FRM Part I",
+      "session": "2023 curriculum",
+      "topic": "Quantitative Analysis",
+      "weight_min_pct": 20,
+      "weight_max_pct": 20,
+      "source_url": "https://www.garp.org/hubfs/Website/FRM/PDF/Study%20Materials/2023/FRM2023-Learning-Objectives.pdf",
+      "source_checked": "2026-10-12",
+      "notes": "Latest publicly downloadable GARP weights (2023 Learning Objectives PDF). The 2026 Learning Objectives are behind a form on garp.org; topic names confirmed current on garp.org/frm."
+    },
+    {
+      "exam": "FRM Part I",
+      "session": "2023 curriculum",
+      "topic": "Financial Markets and Products",
+      "weight_min_pct": 30,
+      "weight_max_pct": 30,
+      "source_url": "https://www.garp.org/hubfs/Website/FRM/PDF/Study%20Materials/2023/FRM2023-Learning-Objectives.pdf",
+      "source_checked": "2026-10-12",
+      "notes": "Latest publicly downloadable GARP weights (2023 Learning Objectives PDF). The 2026 Learning Objectives are behind a form on garp.org; topic names confirmed current on garp.org/frm."
+    },
+    {
+      "exam": "FRM Part I",
+      "session": "2023 curriculum",
+      "topic": "Valuation and Risk Models",
+      "weight_min_pct": 30,
+      "weight_max_pct": 30,
+      "source_url": "https://www.garp.org/hubfs/Website/FRM/PDF/Study%20Materials/2023/FRM2023-Learning-Objectives.pdf",
+      "source_checked": "2026-10-12",
+      "notes": "Latest publicly downloadable GARP weights (2023 Learning Objectives PDF). The 2026 Learning Objectives are behind a form on garp.org; topic names confirmed current on garp.org/frm."
+    }
+  ]
+}
