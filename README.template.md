@@ -2,6 +2,12 @@
 
 [![PyPI](https://img.shields.io/pypi/v/cfa-frm-formula-sheets.svg)](https://pypi.org/project/cfa-frm-formula-sheets/)
 
+[![npm](https://img.shields.io/npm/v/cfa-frm-formula-sheets.svg)](https://www.npmjs.com/package/cfa-frm-formula-sheets)
+
+```sh
+npm install cfa-frm-formula-sheets
+```
+
 Install: `pip install cfa-frm-formula-sheets`
 
 Open, machine-readable **formula reference for CFA Level I, CFA Level II and FRM Part I** — {{N}} formulas ({{COUNTS}}) in LaTeX with plain-language variable definitions and "when used" notes, organised by the **official topic areas** published by CFA Institute and GARP. Includes the **official topic weights** with source links (checked 2026-10-12).
