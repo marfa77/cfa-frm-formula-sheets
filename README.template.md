@@ -1,5 +1,7 @@
 # cfa-frm-formula-sheets
 
+**Interactive demo:** [huggingface.co/spaces/pablo2319/cfa-frm-formulas](https://huggingface.co/spaces/pablo2319/cfa-frm-formulas)
+
 [![PyPI](https://img.shields.io/pypi/v/cfa-frm-formula-sheets.svg)](https://pypi.org/project/cfa-frm-formula-sheets/)
 
 [![npm](https://img.shields.io/npm/v/cfa-frm-formula-sheets.svg)](https://www.npmjs.com/package/cfa-frm-formula-sheets)
