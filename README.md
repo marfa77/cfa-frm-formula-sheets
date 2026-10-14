@@ -2,6 +2,12 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23322167.svg)](https://doi.org/10.5281/zenodo.23322167) [![PyPI](https://img.shields.io/pypi/v/cfa-frm-formula-sheets.svg)](https://pypi.org/project/cfa-frm-formula-sheets/)
 
+[![npm](https://img.shields.io/npm/v/cfa-frm-formula-sheets.svg)](https://www.npmjs.com/package/cfa-frm-formula-sheets)
+
+```sh
+npm install cfa-frm-formula-sheets
+```
+
 Install: `pip install cfa-frm-formula-sheets`
 
 Open, machine-readable **formula reference for CFA Level I, CFA Level II and FRM Part I** — 77 formulas (CFA Level I: 44, CFA Level II: 16, FRM Part I: 17) in LaTeX with plain-language variable definitions and "when used" notes, organised by the **official topic areas** published by CFA Institute and GARP. Includes the **official topic weights** with source links (checked 2026-10-12).
